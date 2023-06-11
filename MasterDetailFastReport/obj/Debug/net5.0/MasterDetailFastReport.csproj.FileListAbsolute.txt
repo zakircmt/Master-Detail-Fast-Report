@@ -1,0 +1,9 @@
+E:\Software Development\MasterDetailFastReport\MasterDetailFastReport\obj\Debug\net5.0\MasterDetailFastReport.csproj.AssemblyReference.cache
+E:\Software Development\MasterDetailFastReport\MasterDetailFastReport\obj\Debug\net5.0\MasterDetailFastReport.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Development\MasterDetailFastReport\MasterDetailFastReport\obj\Debug\net5.0\MasterDetailFastReport.AssemblyInfoInputs.cache
+E:\Software Development\MasterDetailFastReport\MasterDetailFastReport\obj\Debug\net5.0\MasterDetailFastReport.AssemblyInfo.cs
+E:\Software Development\MasterDetailFastReport\MasterDetailFastReport\obj\Debug\net5.0\MasterDetailFastReport.csproj.CoreCompileInputs.cache
+E:\Software Development\MasterDetailFastReport\MasterDetailFastReport\obj\Debug\net5.0\MasterDetailFastReport.MvcApplicationPartsAssemblyInfo.cs
+E:\Software Development\MasterDetailFastReport\MasterDetailFastReport\obj\Debug\net5.0\MasterDetailFastReport.MvcApplicationPartsAssemblyInfo.cache
+E:\Software Development\MasterDetailFastReport\MasterDetailFastReport\obj\Debug\net5.0\MasterDetailFastReport.RazorAssemblyInfo.cache
+E:\Software Development\MasterDetailFastReport\MasterDetailFastReport\obj\Debug\net5.0\MasterDetailFastReport.RazorAssemblyInfo.cs
